@@ -14,7 +14,11 @@
     "id",
     "oauth"
   ],
-  "author": "Konstantin Fedorov",
+  "repository" : {
+    "type":"git",
+    "url":"https://github.com/kmorpex/sberbank-id.git"
+  },
+  "author": "Konstantin Fedorov <tures2011@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2"
